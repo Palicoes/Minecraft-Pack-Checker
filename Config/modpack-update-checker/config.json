@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "1",
+  "modpackName": "Excessive",
+  "modpackAuthor": "Palicoes",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://github.com/Palicoes/Minecraft-Pack-Checker/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}
